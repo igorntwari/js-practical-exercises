@@ -12,5 +12,5 @@ let Searching = (n)=> {
 
   return count;
 }
-// console.log(Searching(50)); this are proved test case 
-// console.log(Searching(100)); this are proved test case
+console.log(Searching(87)); // 55
+console.log(Searching(100)); //this are proved test case
